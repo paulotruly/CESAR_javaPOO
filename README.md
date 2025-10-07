@@ -12,16 +12,16 @@ A interface foi desenvolvida utilizando a biblioteca **Eclipse SWT (Standard Wid
 Este projeto foi desenvolvido de forma colaborativa por toda a equipe listada abaixo.
 Cada integrante contribuiu de maneira essencial para a concepção, desenvolvimento e conclusão do trabalho.
 
-| Nome completo                      | E-mail institucional                          |
-| ---------------------------------- | --------------------------------------------- |
-| **Diego Carvalho**                 | [dsc2@cesar.school](mailto:dsc2@cesar.school) |
-| **Ester Santos**                   | [ems7@cesar.school](mailto:ems7@cesar.school) |
-| **Maria Luiza Fernandes**          | [mlff@cesar.school](mailto:mlff@cesar.school) |
-| **Gustavo Henrique Silva**         | [ghas@cesar.school](mailto:ghas@cesar.school) |
-| **Cícero Souza**                   | [cjcs@cesar.school](mailto:cjcs@cesar.school) |
-| **Giovana Castro de Melo e Silva** | [gcms@cesar.school](mailto:gcms@cesar.school) |
-| **Paulo Henrique Gomes**           | [phg@cesar.school](mailto:phg@cesar.school)   |
-| **João Pedro**                     | [jpgo@cesar.school](mailto:jpgo@cesar.school) |
+| Nome completo                      | E-mail institucional                          |  Funções             |
+| ---------------------------------- | --------------------------------------------- | -------------------- |
+| **Diego Carvalho**                 | [dsc2@cesar.school](mailto:dsc2@cesar.school) | Mapameanto de classes |
+| **Ester Santos**                   | [ems7@cesar.school](mailto:ems7@cesar.school) | Desenvolvimento de métodos |
+| **Maria Luiza Fernandes**          | [mlff@cesar.school](mailto:mlff@cesar.school) | QA |
+| **Gustavo Henrique Silva**         | [ghas@cesar.school](mailto:ghas@cesar.school) | Criação de variavéis |
+| **Cícero Souza**                   | [cjcs@cesar.school](mailto:cjcs@cesar.school) | QA |
+| **Giovana Castro de Melo e Silva** | [gcms@cesar.school](mailto:gcms@cesar.school) | Desenvolvimento interface SWT |
+| **Paulo Henrique Gomes**           | [phg@cesar.school](mailto:phg@cesar.school)   | Desenvolvimento de métodos |
+| **João Pedro**                     | [jpgo@cesar.school](mailto:jpgo@cesar.school) | Gerenciador de projeto |
 
 ---
 
