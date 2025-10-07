@@ -3,8 +3,7 @@
 Este projeto implementa uma aplicação desktop em Java que permite gerenciar notícias de diferentes categorias.  
 A interface foi desenvolvida utilizando a biblioteca **Eclipse SWT (Standard Widget Toolkit)**.
 
-Assista à demonstração
-[Clique aqui para assistir ao vídeo](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/NOME_DO_VIDEO.mp4)
+[Clique aqui para assistir a demonstração do projeto](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/NOME_DO_VIDEO.mp4)
 
 ---
 
