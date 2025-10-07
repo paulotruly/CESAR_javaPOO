@@ -3,6 +3,26 @@
 Este projeto implementa uma aplicação desktop em Java que permite gerenciar notícias de diferentes categorias.  
 A interface foi desenvolvida utilizando a biblioteca **Eclipse SWT (Standard Widget Toolkit)**.
 
+https://github.com/paulotruly/CESAR_javaPOO/blob/main/vídeo%20demonstrativo.mp4
+
+---
+
+## Equipe
+
+Este projeto foi desenvolvido de forma colaborativa por toda a equipe listada abaixo.
+Cada integrante contribuiu de maneira essencial para a concepção, desenvolvimento e conclusão do trabalho.
+
+| Nome completo                      | E-mail institucional                          |
+| ---------------------------------- | --------------------------------------------- |
+| **Diego Carvalho**                 | [dsc2@cesar.school](mailto:dsc2@cesar.school) |
+| **Ester Santos**                   | [ems7@cesar.school](mailto:ems7@cesar.school) |
+| **Maria Luiza Fernandes**          | [mlff@cesar.school](mailto:mlff@cesar.school) |
+| **Gustavo Henrique Silva**         | [ghas@cesar.school](mailto:ghas@cesar.school) |
+| **Cícero Souza**                   | [cjcs@cesar.school](mailto:cjcs@cesar.school) |
+| **Giovana Castro de Melo e Silva** | [gcms@cesar.school](mailto:gcms@cesar.school) |
+| **Paulo Henrique Gomes**           | [phg@cesar.school](mailto:phg@cesar.school)   |
+| **João Pedro**                     | [jpgo@cesar.school](mailto:jpgo@cesar.school) |
+
 ---
 
 ## Funcionalidades
